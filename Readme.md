@@ -19,4 +19,4 @@ For this project, the Twitter access keys have been set to environment variables
 * Tweepy
 
 ## Author
-[Jansen Penido](https://bitbucket.org/jansenpenido)
+[Jansen Penido](https://about.me/jansen.penido)
